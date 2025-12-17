@@ -156,12 +156,6 @@ python main.py path/to/transcript.txt
 
 ---
 
-## 👤 Author
-
-**Ren** – AI Full-Stack Developer & Automation Specialist
-
----
-
 ## 📄 License
 
 Private project — Not open-sourced. Usage permitted only by client or authorized team members.
